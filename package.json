@@ -1,6 +1,6 @@
 {
   "name": "@mdhnpm/color-contrast-ratio-calculator",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "main": "dist/index.js",
   "repository": "git@github.com-mydatahack:mdhnpm/color-contrast-ratio-calculator.git",
   "author": "mydatahack <thon6thon6@hotmail.com>",
