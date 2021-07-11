@@ -1,6 +1,6 @@
 # color-contrast-ratio-calculator
 
-This Node.js module calculate the contrast of two colors for accessibity based on Web Contenet Accessibility Guideline (WCAG).
+Node module to calculate the contrast of two colors for accessibity based on Web Contenet Accessibility Guideline (WCAG).
 
 ## Example
 
@@ -30,7 +30,7 @@ Contrast ratio is calculated as `(L1 + 0.05) / (L2 + 0.05)` where
 - L1 is the relative luminance of the lighter of the colors, and
 - L2 is the relative luminance of the darker of the colors.
 
-See Contrast Ration (here)[https://www.w3.org/TR/WCAG21/#dfn-contrast-ratio]
+See Contrast Ration [here](https://www.w3.org/TR/WCAG21/#dfn-contrast-ratio)
 
 According to WCAG, the relative luminance of a color for the sRGB colorspace is defined as `L = 0.2126 * R + 0.7152 * G + 0.0722 * B` where R, G and B are defined as:
 
