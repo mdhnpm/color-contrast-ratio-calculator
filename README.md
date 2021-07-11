@@ -9,7 +9,7 @@ Node module to calculate the contrast of two colors for accessibity based on Web
 - backgroundColor: a hexadecimal string (with or without #) or an array of RBG. 
 
 ```js
-import { colorContrastRatioCalculator } from './colorContrastRatioCalculator';
+import { colorContrastRatioCalculator } from '@mdhnpm/color-contrast-ratio-calculator';
 
 colorContrastRatioCalculator('11AA55', 'AA8811'); // return 1.11
 
