@@ -712,10 +712,10 @@
     "@types/yargs" "^16.0.0"
     chalk "^4.0.0"
 
-"@mdhnpm/rgb-hex-converter@^1.0.3":
-  version "1.0.3"
-  resolved "https://registry.yarnpkg.com/@mdhnpm/rgb-hex-converter/-/rgb-hex-converter-1.0.3.tgz#56d176810680d12dd1b48cbe2c326cad6b20b7f3"
-  integrity sha512-iAWfYCknI5uXh9bX5hDVCUVPC+c5zzHEiABufY0km15Ff49vbii2aV+gJT5S5wQMs45kI2Xr0QKGax663TN5Aw==
+"@mdhnpm/rgb-hex-converter@^1.2.0":
+  version "1.2.0"
+  resolved "https://registry.yarnpkg.com/@mdhnpm/rgb-hex-converter/-/rgb-hex-converter-1.2.0.tgz#efb2499ace7d0a25c84910bf22ab0d9445fd0cb0"
+  integrity sha512-/tSC3owWlZSuZMDnR797DoJ2ZVH59+dUKv5rHJ0tO18MOebc+oZ2FtyMOrN5QqC5yG/sgXYfPLmMPf5EGiibzw==
 
 "@nodelib/fs.scandir@2.1.5":
   version "2.1.5"

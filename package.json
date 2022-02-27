@@ -28,6 +28,6 @@
     "yarn": "^1.22.17"
   },
   "dependencies": {
-    "@mdhnpm/rgb-hex-converter": "^1.0.3"
+    "@mdhnpm/rgb-hex-converter": "^1.2.0"
   }
 }
